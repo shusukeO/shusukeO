@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="https://shusukedev.com">Website</a> ·
-  <a href="https://dev.to/shusukedev">Dev.to</a>
+  <a href="https://dev.to/shusukedev">Dev.to (EN)</a> ·
+  <a href="https://zenn.dev/shusuke_o">Zenn (JA)</a>
 </p>
 
 ---
@@ -55,11 +56,11 @@
 
 ### Projects
 
-| Project                                             | Description                                                                   |
-| --------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **[Amida-san](https://amida-san.com/)**              | Decentralized lottery system modernizing traditional Amidakuji. 10,000+ users |
+| Project                                                    | Description                                                                   |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **[Amida-san](https://amida-san.com/)**                    | Decentralized lottery system modernizing traditional Amidakuji. 10,000+ users |
 | **[TB: Talking Bookshelf](https://talkingbookshelf.com/)** | AI-powered system that transforms reading records into conversations          |
-| **X Bot**                                           | Automated bot with 10,000+ followers, running for 8+ years                    |
+| **X Bot**                                                  | Automated bot with 10,000+ followers, running for 8+ years                    |
 
 ### GitHub Stats
 
