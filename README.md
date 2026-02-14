@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shusuke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">Hi there, I'm Shusuke O. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
   <b>System Designer & Software Engineer</b><br>
@@ -7,9 +7,7 @@
 
 <p align="center">
   <a href="https://shusukedev.com">Website</a> ·
-  <a href="https://linkedin.com/in/shusukeO">LinkedIn</a> ·
-  <a href="https://dev.to/shusukeO">Dev.to</a> ·
-  <a href="https://zenn.dev/shusukeO">Zenn</a>
+  <a href="https://dev.to/shusukedev">Dev.to</a>
 </p>
 
 ---
@@ -64,11 +62,6 @@
 | **X Bot**                                           | Automated bot with 10,000+ followers, running for 8+ years                    |
 
 ### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shusukeO&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusukeO&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shusukeO&theme=tokyonight&hide_border=true">
