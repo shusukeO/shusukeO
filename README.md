@@ -57,8 +57,8 @@
 
 | Project                                             | Description                                                                   |
 | --------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **[Amida-san](https://shusukedev.com)**             | Decentralized lottery system modernizing traditional Amidakuji. 10,000+ users |
-| **[TB: Talking Bookshelf](https://shusukedev.com)** | AI-powered system that transforms reading records into conversations          |
+| **[Amida-san](https://amida-san.com/)**              | Decentralized lottery system modernizing traditional Amidakuji. 10,000+ users |
+| **[TB: Talking Bookshelf](https://talkingbookshelf.com/)** | AI-powered system that transforms reading records into conversations          |
 | **X Bot**                                           | Automated bot with 10,000+ followers, running for 8+ years                    |
 
 ### GitHub Stats
