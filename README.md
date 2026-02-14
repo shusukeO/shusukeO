@@ -15,7 +15,7 @@
 
 ### About Me
 
-- Studied **Cyber Informatics** (M.A. in Media and Governance)
+- Graduate with a **Master's degree in Media and Governance**, specializing in **Cyber Informatics**
 - **Full-stack engineer** with a focus on **cloud engineering**
 - Based in **Tokyo, Japan**
 
