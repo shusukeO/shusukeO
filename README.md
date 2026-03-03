@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>System Designer & Software Engineer</b><br>
-  Exploring computer technology that harmonizes with nature, human life, and culture.
 </p>
 
 <p align="center">
