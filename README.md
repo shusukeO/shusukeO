@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://shusukedev.com">Website</a> ·
   <a href="https://dev.to/shusukedev">Dev.to (EN)</a> ·
   <a href="https://zenn.dev/shusuke_o">Zenn (JA)</a>
 </p>
