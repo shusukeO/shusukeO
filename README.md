@@ -57,7 +57,6 @@
 | Project                                                    | Description                                                                   |
 | ---------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | **[Amida-san](https://amida-san.com/)**                    | Decentralized lottery system modernizing traditional Amidakuji. 20,000+ users |
-         |
 | **X Bot**                                                  | Automated bot with 10,000+ followers, running for 8+ years                    |
 
 ### GitHub Stats
